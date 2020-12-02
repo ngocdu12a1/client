@@ -1,0 +1,911 @@
+{
+  "ID": "10b2f46c-b762-4c8b-8d86-24a1c4248c80",
+  "Version": "3.10.0.0",
+  "Name": "Node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 3,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BG.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.6184,
+              "Y": -10.8767
+            },
+            "Scale": {
+              "ScaleX": 10.4451,
+              "ScaleY": 8.9502
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -196.1184,
+            "RightMargin": -194.8816,
+            "TopMargin": -125.6233,
+            "BottomMargin": -147.3767,
+            "Tag": 4,
+            "ActionTag": -230212837,
+            "Size": {
+              "X": 391.0,
+              "Y": 273.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1654.6801,
+              "Y": 1012.7
+            },
+            "Scale": {
+              "ScaleX": 6.6976,
+              "ScaleY": 6.0338
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1631.1801,
+            "RightMargin": -1678.1801,
+            "TopMargin": -1036.2,
+            "BottomMargin": 989.2,
+            "Tag": 5,
+            "ActionTag": 1277602060,
+            "Size": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Name": "closeButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 580.37
+            },
+            "Scale": {
+              "ScaleX": 6.45,
+              "ScaleY": 3.63
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -598.37,
+            "BottomMargin": 562.37,
+            "Tag": 9,
+            "ActionTag": -144031971,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressbg1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 369.0
+            },
+            "Scale": {
+              "ScaleX": 6.45,
+              "ScaleY": 3.63
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -387.0,
+            "BottomMargin": 351.0,
+            "Tag": 11,
+            "ActionTag": -680080856,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressbg2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 169.0
+            },
+            "Scale": {
+              "ScaleX": 6.45,
+              "ScaleY": 3.63
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -187.0,
+            "BottomMargin": 151.0,
+            "Tag": 12,
+            "ActionTag": -1792473673,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressbg3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_nextlv_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.8086,
+              "Y": 580.37
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 500.3086,
+            "RightMargin": -811.3086,
+            "TopMargin": -598.37,
+            "BottomMargin": 562.37,
+            "Tag": 10,
+            "ActionTag": -974826174,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressnewbar1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_nextlv_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.81,
+              "Y": 369.0
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 500.31,
+            "RightMargin": -811.31,
+            "TopMargin": -387.0,
+            "BottomMargin": 351.0,
+            "Tag": 14,
+            "ActionTag": -1562949402,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressnewbar2",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_nextlv_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 169.0
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -187.0,
+            "BottomMargin": 151.0,
+            "Tag": 13,
+            "ActionTag": -1013179570,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressnewbar3",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ProgressInfo": 49,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 655.8086,
+              "Y": 580.37
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 500.3086,
+            "RightMargin": -811.3086,
+            "TopMargin": -598.37,
+            "BottomMargin": 562.37,
+            "Tag": 6,
+            "ActionTag": 1397383991,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressoldbar1",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ProgressInfo": 50,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 169.0
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -187.0,
+            "BottomMargin": 151.0,
+            "Tag": 7,
+            "ActionTag": -924302078,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressoldbar2",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "ProgressInfo": 20,
+            "ImageFileData": {
+              "Type": "Normal",
+              "Path": "info_bar_BG.png",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 650.26,
+              "Y": 369.0
+            },
+            "Scale": {
+              "ScaleX": 6.4414,
+              "ScaleY": 3.6207
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 494.76,
+            "RightMargin": -805.76,
+            "TopMargin": -387.0,
+            "BottomMargin": 351.0,
+            "Tag": 8,
+            "ActionTag": 1205356707,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "progressoldbar3",
+            "ctype": "LoadingBarObjectData"
+          },
+          {
+            "LabelText": "Fnt Text Label",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -4.741,
+              "Y": 1014.7218
+            },
+            "Scale": {
+              "ScaleX": 5.8145,
+              "ScaleY": 6.664
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -97.241,
+            "RightMargin": -87.759,
+            "TopMargin": -1030.7218,
+            "BottomMargin": 998.7218,
+            "Tag": 15,
+            "ActionTag": 713090269,
+            "Size": {
+              "X": 185.0,
+              "Y": 32.0
+            },
+            "Name": "objectName",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "mieng_trang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -5.5425,
+              "Y": -588.1984
+            },
+            "Scale": {
+              "ScaleX": 5.3942,
+              "ScaleY": 7.3628
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -346.5425,
+            "RightMargin": -335.4575,
+            "TopMargin": 530.6984,
+            "BottomMargin": -645.6984,
+            "Tag": 16,
+            "ActionTag": -2114774391,
+            "Size": {
+              "X": 682.0,
+              "Y": 115.0
+            },
+            "Name": "Sprite_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "Fnt Text Label",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.9812,
+              "Y": 583.5705
+            },
+            "Scale": {
+              "ScaleX": 4.0326,
+              "ScaleY": 3.7415
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.9812,
+            "RightMargin": -86.0188,
+            "TopMargin": -615.5705,
+            "BottomMargin": 583.5705,
+            "Tag": 17,
+            "ActionTag": -1284017608,
+            "Size": {
+              "X": 185.0,
+              "Y": 32.0
+            },
+            "Name": "attr1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Fnt Text Label",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -104.2787,
+              "Y": 365.3652
+            },
+            "Scale": {
+              "ScaleX": 4.0326,
+              "ScaleY": 3.7415
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -104.2787,
+            "RightMargin": -80.7213,
+            "TopMargin": -397.3652,
+            "BottomMargin": 365.3652,
+            "Tag": 18,
+            "ActionTag": -415237527,
+            "Size": {
+              "X": 185.0,
+              "Y": 32.0
+            },
+            "Name": "attr2",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Fnt Text Label",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": -98.3927,
+              "Y": 149.8037
+            },
+            "Scale": {
+              "ScaleX": 4.0326,
+              "ScaleY": 3.7415
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -98.3927,
+            "RightMargin": -86.6073,
+            "TopMargin": -181.8037,
+            "BottomMargin": 149.8037,
+            "Tag": 19,
+            "ActionTag": 392733468,
+            "Size": {
+              "X": 185.0,
+              "Y": 32.0
+            },
+            "Name": "attr3",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Thời gian nâng cấp:",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1209.0076,
+              "Y": 40.0292
+            },
+            "Scale": {
+              "ScaleX": 3.8996,
+              "ScaleY": 3.2537
+            },
+            "CColor": {
+              "R": 139,
+              "G": 105,
+              "B": 20
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1323.5076,
+            "RightMargin": 1094.5076,
+            "TopMargin": -56.0292,
+            "BottomMargin": 24.0292,
+            "Tag": 20,
+            "ActionTag": -570625900,
+            "Size": {
+              "X": 229.0,
+              "Y": 32.0
+            },
+            "Name": "BitmapFontLabel_5",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "10d",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1221.2815,
+              "Y": -83.4302
+            },
+            "Scale": {
+              "ScaleX": 2.7927,
+              "ScaleY": 2.4397
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1249.7815,
+            "RightMargin": 1192.7815,
+            "TopMargin": 67.4302,
+            "BottomMargin": -99.4302,
+            "Tag": 21,
+            "ActionTag": 1382242438,
+            "Size": {
+              "X": 57.0,
+              "Y": 32.0
+            },
+            "Name": "upgrade",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 134,
+            "Scale9Height": 45,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": -845.214
+            },
+            "Scale": {
+              "ScaleX": 4.1838,
+              "ScaleY": 3.2921
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -82.0,
+            "RightMargin": -82.0,
+            "TopMargin": 811.714,
+            "BottomMargin": -878.714,
+            "Tag": 22,
+            "ActionTag": 1694078003,
+            "Size": {
+              "X": 164.0,
+              "Y": 67.0
+            },
+            "Name": "upgradeButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "BG.png",
+        "button.png",
+        "close.png",
+        "info_bar.png",
+        "info_bar_BG.png",
+        "info_bar_nextlv_BG.png",
+        "mieng_trang.png",
+        "soji_20.fnt",
+        "soji_20.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

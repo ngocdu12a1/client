@@ -1,0 +1,4947 @@
+{
+  "ID": "cce84653-e4c7-47f5-b8c8-d1b45603b869",
+  "Version": "3.10.0.0",
+  "Name": "Node",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "nen_find_match.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1526.5066,
+              "Y": -3.8575
+            },
+            "Scale": {
+              "ScaleX": 7.0,
+              "ScaleY": 7.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1709.0066,
+            "RightMargin": 1344.0066,
+            "TopMargin": -236.1425,
+            "BottomMargin": -243.8575,
+            "Tag": 10,
+            "ActionTag": 798781471,
+            "Size": {
+              "X": 365.0,
+              "Y": 480.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "InnerNodeSize": {
+              "Width": 445,
+              "Height": 2500
+            },
+            "ScrollDirectionType": "Vertical",
+            "ClipAble": false,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 21,
+              "G": 70,
+              "B": 84
+            },
+            "FirstColor": {
+              "G": 150,
+              "B": 100
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -143,
+            "Scale9OriginY": -131,
+            "Scale9Width": 286,
+            "Scale9Height": 262,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1276.4998,
+              "Y": 165.9197
+            },
+            "Scale": {
+              "ScaleX": 6.92,
+              "ScaleY": 6.92
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1053.9998,
+            "RightMargin": -1498.9998,
+            "TopMargin": -415.9197,
+            "BottomMargin": -84.0803,
+            "Tag": 11,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_01.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.8998,
+                  "Y": 2268.7764
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4964,
+                  "Y": 0.9075
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1592
+                },
+                "LeftMargin": 2.8998,
+                "RightMargin": 6.1002,
+                "TopMargin": 32.2236,
+                "BottomMargin": 2069.7764,
+                "Tag": 13,
+                "ActionTag": -679267092,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 398.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_02.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.8951,
+                  "Y": 1873.5925
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4964,
+                  "Y": 0.7494
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1596
+                },
+                "LeftMargin": 2.8951,
+                "RightMargin": 6.1049,
+                "TopMargin": 426.9075,
+                "BottomMargin": 1674.0925,
+                "Tag": 14,
+                "ActionTag": 323866736,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 399.0
+                },
+                "Name": "Sprite_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_03.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.2252,
+                  "Y": 1484.0027
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4949,
+                  "Y": 0.5936
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1592
+                },
+                "LeftMargin": 2.2252,
+                "RightMargin": 6.7748,
+                "TopMargin": 816.9973,
+                "BottomMargin": 1285.0027,
+                "Tag": 15,
+                "ActionTag": -1081494270,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 398.0
+                },
+                "Name": "Sprite_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_04.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 219.8467,
+                  "Y": 1086.2334
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.494,
+                  "Y": 0.4345
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1592
+                },
+                "LeftMargin": 1.8467,
+                "RightMargin": 7.1533,
+                "TopMargin": 1214.7666,
+                "BottomMargin": 887.2334,
+                "Tag": 16,
+                "ActionTag": -1675199965,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 398.0
+                },
+                "Name": "Sprite_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_05.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 220.7973,
+                  "Y": 688.8241
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4962,
+                  "Y": 0.2755
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1596
+                },
+                "LeftMargin": 2.7973,
+                "RightMargin": 6.2027,
+                "TopMargin": 1611.6759,
+                "BottomMargin": 489.3241,
+                "Tag": 17,
+                "ActionTag": -1530930089,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 399.0
+                },
+                "Name": "Sprite_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "mieng-nen_06.jpg",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 221.5507,
+                  "Y": 290.4651
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4979,
+                  "Y": 0.1162
+                },
+                "PreSize": {
+                  "X": 0.9798,
+                  "Y": 0.1592
+                },
+                "LeftMargin": 3.5507,
+                "RightMargin": 5.4493,
+                "TopMargin": 2010.5349,
+                "BottomMargin": 91.4651,
+                "Tag": 18,
+                "ActionTag": -528531605,
+                "Size": {
+                  "X": 436.0,
+                  "Y": 398.0
+                },
+                "Name": "Sprite_7",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 21,
+                "Scale9Height": 27,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 331.847,
+                  "Y": 1681.8341
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7457,
+                  "Y": 0.6727
+                },
+                "PreSize": {
+                  "X": 0.1146,
+                  "Y": 0.0196
+                },
+                "LeftMargin": 306.347,
+                "RightMargin": 87.653,
+                "TopMargin": 793.6659,
+                "BottomMargin": 1657.3341,
+                "Tag": 128,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.896,
+                      "Y": 49.5287
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0176,
+                      "Y": 1.0108
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": -9.896,
+                    "RightMargin": 42.896,
+                    "TopMargin": -10.5287,
+                    "BottomMargin": 39.5287,
+                    "Tag": 129,
+                    "ActionTag": 1920609400,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.6654,
+                      "Y": 60.3375
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4579,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4836,
+                      "Y": 1.2314
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 15.6654,
+                    "RightMargin": 17.3346,
+                    "TopMargin": -21.3375,
+                    "BottomMargin": 50.3375,
+                    "Tag": 130,
+                    "ActionTag": -1266463901,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.3967,
+                      "Y": 53.5149
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.31,
+                    "RotationSkewY": 13.31,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0078,
+                      "Y": 1.0921
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 42.3967,
+                    "RightMargin": -9.3967,
+                    "TopMargin": -14.5149,
+                    "BottomMargin": 43.5149,
+                    "Tag": 131,
+                    "ActionTag": 1683967097,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.5569,
+                      "Y": 52.7935
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0109,
+                      "Y": 1.0774
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 40.5569,
+                    "RightMargin": -11.5569,
+                    "TopMargin": -15.2935,
+                    "BottomMargin": 41.2935,
+                    "Tag": 132,
+                    "ActionTag": -1466867222,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.631,
+                      "Y": 60.8126
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.483,
+                      "Y": 1.2411
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 13.631,
+                    "RightMargin": 15.369,
+                    "TopMargin": -23.3126,
+                    "BottomMargin": 49.3126,
+                    "Tag": 133,
+                    "ActionTag": -462838348,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1.1487,
+                      "Y": 50.1958
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0225,
+                      "Y": 1.0244
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": -12.1487,
+                    "RightMargin": 41.1487,
+                    "TopMargin": -12.6958,
+                    "BottomMargin": 38.6958,
+                    "Tag": 134,
+                    "ActionTag": 1994066530,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 138546662,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 49.0
+                },
+                "Name": "stage10",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 203.1623,
+                  "Y": 1733.6802
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4565,
+                  "Y": 0.6935
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 187.6623,
+                "RightMargin": 226.3377,
+                "TopMargin": 750.3198,
+                "BottomMargin": 1717.6802,
+                "Tag": 121,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 122,
+                    "ActionTag": -783997635,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 123,
+                    "ActionTag": 60703407,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 124,
+                    "ActionTag": 2084750912,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 125,
+                    "ActionTag": 2106795371,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 126,
+                    "ActionTag": 1898271513,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 127,
+                    "ActionTag": 2016159286,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1455030056,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage9",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 232.9511,
+                  "Y": 2096.51
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5235,
+                  "Y": 0.8386
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 217.4511,
+                "RightMargin": 196.5489,
+                "TopMargin": 387.49,
+                "BottomMargin": 2080.51,
+                "Tag": 107,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 108,
+                    "ActionTag": -578553213,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 109,
+                    "ActionTag": -2014190718,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 110,
+                    "ActionTag": 176078772,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 111,
+                    "ActionTag": -1600043191,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 112,
+                    "ActionTag": -2017808884,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 113,
+                    "ActionTag": -902741589,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 482023565,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.1812,
+                  "Y": 1843.9012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3869,
+                  "Y": 0.7376
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 156.6812,
+                "RightMargin": 257.3188,
+                "TopMargin": 640.0988,
+                "BottomMargin": 1827.9012,
+                "Tag": 100,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 101,
+                    "ActionTag": -874307695,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 102,
+                    "ActionTag": -186528561,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 103,
+                    "ActionTag": 1255814149,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 104,
+                    "ActionTag": -661662665,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 105,
+                    "ActionTag": -833641063,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 106,
+                    "ActionTag": -2052287971,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -186766499,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage8",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.8073,
+                  "Y": 1911.2252
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6962,
+                  "Y": 0.7645
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 294.3073,
+                "RightMargin": 119.6927,
+                "TopMargin": 572.7748,
+                "BottomMargin": 1895.2252,
+                "Tag": 93,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 94,
+                    "ActionTag": -146219610,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 95,
+                    "ActionTag": -271163638,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 96,
+                    "ActionTag": -1891531822,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 12,
+                    "Scale9Height": 11,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.53,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 97,
+                    "ActionTag": -2108011872,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 98,
+                    "ActionTag": 1962528062,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 99,
+                    "ActionTag": -608845303,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1996009173,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage7",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 209.7162,
+                  "Y": 1995.8262
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4713,
+                  "Y": 0.7983
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 194.2162,
+                "RightMargin": 219.7838,
+                "TopMargin": 488.1738,
+                "BottomMargin": 1979.8262,
+                "Tag": 86,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 87,
+                    "ActionTag": -1440169589,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 88,
+                    "ActionTag": -1190586762,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 89,
+                    "ActionTag": -116855562,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 90,
+                    "ActionTag": -274326647,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 91,
+                    "ActionTag": 50206891,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 92,
+                    "ActionTag": 1186162703,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1819781716,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 21,
+                "Scale9Height": 27,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 131.0702,
+                  "Y": 2074.4653
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2945,
+                  "Y": 0.8298
+                },
+                "PreSize": {
+                  "X": 0.1146,
+                  "Y": 0.0196
+                },
+                "LeftMargin": 105.5702,
+                "RightMargin": 288.4298,
+                "TopMargin": 401.0347,
+                "BottomMargin": 2049.9653,
+                "Tag": 79,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.896,
+                      "Y": 49.53
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0176,
+                      "Y": 1.0108
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": -9.896,
+                    "RightMargin": 42.896,
+                    "TopMargin": -10.53,
+                    "BottomMargin": 39.53,
+                    "Tag": 80,
+                    "ActionTag": 1090781867,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.6654,
+                      "Y": 60.3375
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4579,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4836,
+                      "Y": 1.2314
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 15.6654,
+                    "RightMargin": 17.3346,
+                    "TopMargin": -21.3375,
+                    "BottomMargin": 50.3375,
+                    "Tag": 81,
+                    "ActionTag": -2052889074,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.3967,
+                      "Y": 53.5149
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.3087,
+                    "RotationSkewY": 13.3087,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0078,
+                      "Y": 1.0921
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 42.3967,
+                    "RightMargin": -9.3967,
+                    "TopMargin": -14.5149,
+                    "BottomMargin": 43.5149,
+                    "Tag": 82,
+                    "ActionTag": 1635307179,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.5569,
+                      "Y": 52.7935
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0109,
+                      "Y": 1.0774
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 40.5569,
+                    "RightMargin": -11.5569,
+                    "TopMargin": -15.2935,
+                    "BottomMargin": 41.2935,
+                    "Tag": 83,
+                    "ActionTag": -1807728357,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.631,
+                      "Y": 60.8126
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.483,
+                      "Y": 1.2411
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 13.631,
+                    "RightMargin": 15.369,
+                    "TopMargin": -23.3126,
+                    "BottomMargin": 49.3126,
+                    "Tag": 84,
+                    "ActionTag": 450494361,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1.1487,
+                      "Y": 50.1958
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0225,
+                      "Y": 1.0244
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": -12.1487,
+                    "RightMargin": 41.1487,
+                    "TopMargin": -12.6958,
+                    "BottomMargin": 38.6958,
+                    "Tag": 85,
+                    "ActionTag": -1612663244,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1819499089,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 49.0
+                },
+                "Name": "stage5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 327.6804,
+                  "Y": 2066.1274
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.9473
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7364,
+                  "Y": 0.8265
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 312.1804,
+                "RightMargin": 101.8196,
+                "TopMargin": 417.8726,
+                "BottomMargin": 2050.1274,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 73,
+                    "ActionTag": -112800001,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 74,
+                    "ActionTag": -878416236,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 75,
+                    "ActionTag": 571062944,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 76,
+                    "ActionTag": -798147051,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 77,
+                    "ActionTag": -1718371583,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 78,
+                    "ActionTag": 507391544,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -566435477,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "icon_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 21,
+                "Scale9Height": 27,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 349.1296,
+                  "Y": 2159.6672
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7846,
+                  "Y": 0.8639
+                },
+                "PreSize": {
+                  "X": 0.1146,
+                  "Y": 0.0196
+                },
+                "LeftMargin": 323.6296,
+                "RightMargin": 70.3704,
+                "TopMargin": 315.8328,
+                "BottomMargin": 2135.1672,
+                "Tag": 58,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -0.896,
+                      "Y": 49.5287
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0176,
+                      "Y": 1.0108
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": -9.896,
+                    "RightMargin": 42.896,
+                    "TopMargin": -10.5287,
+                    "BottomMargin": 39.5287,
+                    "Tag": 59,
+                    "ActionTag": -1043340905,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.6654,
+                      "Y": 60.3375
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.46,
+                    "RotationSkewY": -21.4595,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4836,
+                      "Y": 1.2314
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 15.6654,
+                    "RightMargin": 17.3346,
+                    "TopMargin": -21.3375,
+                    "BottomMargin": 50.3375,
+                    "Tag": 60,
+                    "ActionTag": -201189678,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.3967,
+                      "Y": 53.5149
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.3087,
+                    "RotationSkewY": 13.3087,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0078,
+                      "Y": 1.0921
+                    },
+                    "PreSize": {
+                      "X": 0.3529,
+                      "Y": 0.4082
+                    },
+                    "LeftMargin": 42.3967,
+                    "RightMargin": -9.3967,
+                    "TopMargin": -14.5149,
+                    "BottomMargin": 43.5149,
+                    "Tag": 61,
+                    "ActionTag": 1425691010,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.5569,
+                      "Y": 52.7935
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0109,
+                      "Y": 1.0774
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 40.5569,
+                    "RightMargin": -11.5569,
+                    "TopMargin": -15.2935,
+                    "BottomMargin": 41.2935,
+                    "Tag": 62,
+                    "ActionTag": -965952084,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.631,
+                      "Y": 60.8126
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.483,
+                      "Y": 1.2411
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": 13.631,
+                    "RightMargin": 15.369,
+                    "TopMargin": -23.3126,
+                    "BottomMargin": 49.3126,
+                    "Tag": 63,
+                    "ActionTag": -1574092340,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1.1487,
+                      "Y": 50.1958
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0225,
+                      "Y": 1.0244
+                    },
+                    "PreSize": {
+                      "X": 0.4314,
+                      "Y": 0.4694
+                    },
+                    "LeftMargin": -12.1487,
+                    "RightMargin": 41.1487,
+                    "TopMargin": -12.6958,
+                    "BottomMargin": 38.6958,
+                    "Tag": 64,
+                    "ActionTag": -1365685800,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -587238058,
+                "Size": {
+                  "X": 51.0,
+                  "Y": 49.0
+                },
+                "Name": "stage2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "stageDisable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "map_point.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 1,
+                "Scale9Height": 10,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 282.6584,
+                  "Y": 2262.5222
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6352,
+                  "Y": 0.905
+                },
+                "PreSize": {
+                  "X": 0.0697,
+                  "Y": 0.0128
+                },
+                "LeftMargin": 267.1584,
+                "RightMargin": 146.8416,
+                "TopMargin": 221.4778,
+                "BottomMargin": 2246.5222,
+                "Tag": 31,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.0823,
+                      "Y": 37.0511
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 7.9126,
+                    "RotationSkewY": 7.9121,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.1962,
+                      "Y": 1.1578
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": -15.0823,
+                    "RightMargin": 28.0823,
+                    "TopMargin": -15.0511,
+                    "BottomMargin": 27.0511,
+                    "Tag": 57,
+                    "ActionTag": 1588708920,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5849,
+                      "Y": 46.5628
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.4582,
+                    "RotationSkewY": -21.4574,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5027,
+                      "Y": 1.4551
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 6.5849,
+                    "RightMargin": 6.4151,
+                    "TopMargin": -24.5628,
+                    "BottomMargin": 36.5628,
+                    "Tag": 56,
+                    "ActionTag": -220751848,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "sao_den_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 5,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 36.0478,
+                      "Y": 38.1655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 15.0809,
+                    "RotationSkewY": 15.0809,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1628,
+                      "Y": 1.1927
+                    },
+                    "PreSize": {
+                      "X": 0.5806,
+                      "Y": 0.625
+                    },
+                    "LeftMargin": 27.0478,
+                    "RightMargin": -14.0478,
+                    "TopMargin": -16.1655,
+                    "BottomMargin": 28.1655,
+                    "Tag": 55,
+                    "ActionTag": -1518699170,
+                    "Size": {
+                      "X": 18.0,
+                      "Y": 20.0
+                    },
+                    "Name": "darkStar3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.8853,
+                      "Y": 37.8492
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 13.5276,
+                    "RotationSkewY": 13.5279,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.1576,
+                      "Y": 1.1828
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 24.8853,
+                    "RightMargin": -15.8853,
+                    "TopMargin": -17.3492,
+                    "BottomMargin": 26.3492,
+                    "Tag": 48,
+                    "ActionTag": -42452000,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 15.5191,
+                      "Y": 46.5966
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -21.5307,
+                    "RotationSkewY": -21.5325,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5006,
+                      "Y": 1.4561
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": 4.5191,
+                    "RightMargin": 4.4809,
+                    "TopMargin": -26.0966,
+                    "BottomMargin": 35.0966,
+                    "Tag": 49,
+                    "ActionTag": 1862332185,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "small_star.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 7,
+                    "Scale9OriginY": 7,
+                    "Scale9Width": 8,
+                    "Scale9Height": 9,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -6.2499,
+                      "Y": 37.439
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -63.051,
+                    "RotationSkewY": -63.0523,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.2016,
+                      "Y": 1.17
+                    },
+                    "PreSize": {
+                      "X": 0.7097,
+                      "Y": 0.7188
+                    },
+                    "LeftMargin": -17.2499,
+                    "RightMargin": 26.2499,
+                    "TopMargin": -16.939,
+                    "BottomMargin": 25.939,
+                    "Tag": 50,
+                    "ActionTag": -1340568511,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 23.0
+                    },
+                    "Name": "star1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1544583148,
+                "Size": {
+                  "X": 31.0,
+                  "Y": 32.0
+                },
+                "Name": "stage1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "button2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "button2.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "button2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 111,
+                "Scale9Height": 38,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 282.6606,
+                  "Y": 2227.9915
+                },
+                "Scale": {
+                  "ScaleX": 0.5797,
+                  "ScaleY": 0.5797
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6352,
+                  "Y": 0.8912
+                },
+                "PreSize": {
+                  "X": 0.3169,
+                  "Y": 0.024
+                },
+                "LeftMargin": 212.1606,
+                "RightMargin": 91.8394,
+                "TopMargin": 242.0085,
+                "BottomMargin": 2197.9915,
+                "Tag": 135,
+                "Children": [
+                  {
+                    "LabelText": "Tấn công",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "soji_24.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 71.8094,
+                      "Y": 28.9172
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5093,
+                      "Y": 0.482
+                    },
+                    "PreSize": {
+                      "X": 0.9574,
+                      "Y": 0.6333
+                    },
+                    "LeftMargin": 4.3094,
+                    "RightMargin": 1.6906,
+                    "TopMargin": 12.0828,
+                    "BottomMargin": 9.9172,
+                    "Tag": 136,
+                    "ActionTag": -636955005,
+                    "Size": {
+                      "X": 135.0,
+                      "Y": 38.0
+                    },
+                    "Name": "BitmapFontLabel_5",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1143705983,
+                "Size": {
+                  "X": 141.0,
+                  "Y": 60.0
+                },
+                "Name": "attackButton",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1340721253,
+            "Size": {
+              "X": 445.0,
+              "Y": 500.0
+            },
+            "Name": "ScrollView_1",
+            "ctype": "ScrollViewObjectData"
+          },
+          {
+            "LabelText": "Điểm danh vọng:",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_24.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1583.1752,
+              "Y": 1306.5326
+            },
+            "Scale": {
+              "ScaleX": 4.058,
+              "ScaleY": 4.058
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1702.1752,
+            "RightMargin": 1464.1752,
+            "TopMargin": -1325.5326,
+            "BottomMargin": 1287.5326,
+            "Tag": 19,
+            "ActionTag": -1053469018,
+            "Size": {
+              "X": 238.0,
+              "Y": 38.0
+            },
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "button_find_match.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "button_find_match.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "button_find_match.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 152,
+            "Scale9Height": 53,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1546.4501,
+              "Y": -1046.1549
+            },
+            "Scale": {
+              "ScaleX": 5.9386,
+              "ScaleY": 5.9386
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1637.4501,
+            "RightMargin": 1455.4501,
+            "TopMargin": 1008.6549,
+            "BottomMargin": -1083.6549,
+            "Tag": 22,
+            "ActionTag": -1672761245,
+            "Size": {
+              "X": 182.0,
+              "Y": 75.0
+            },
+            "Name": "conquerButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "Chinh phạt",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_24.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1574.1707,
+              "Y": -957.4114
+            },
+            "Scale": {
+              "ScaleX": 5.4657,
+              "ScaleY": 5.4657
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1656.1707,
+            "RightMargin": 1492.1707,
+            "TopMargin": 938.4114,
+            "BottomMargin": -976.4114,
+            "Tag": 23,
+            "ActionTag": -407965827,
+            "Size": {
+              "X": 164.0,
+              "Y": 38.0
+            },
+            "Name": "BitmapFontLabel_2",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "nen_nut_dong.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 26,
+            "Scale9OriginY": 20,
+            "Scale9Width": 27,
+            "Scale9Height": 22,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2403.8506,
+              "Y": 1278.4258
+            },
+            "Scale": {
+              "ScaleX": 7.4613,
+              "ScaleY": 7.4613
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 2364.3506,
+            "RightMargin": -2443.3506,
+            "TopMargin": -1309.4258,
+            "BottomMargin": 1247.4258,
+            "Tag": 24,
+            "ActionTag": 974600239,
+            "Size": {
+              "X": 79.0,
+              "Y": 62.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "butto_close_fm.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "butto_close_fm.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "butto_close_fm.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 23,
+            "Scale9Height": 31,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2403.7642,
+              "Y": 1311.574
+            },
+            "Scale": {
+              "ScaleX": 6.0249,
+              "ScaleY": 6.0249
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 2377.2642,
+            "RightMargin": -2430.2642,
+            "TopMargin": -1338.074,
+            "BottomMargin": 1285.074,
+            "Tag": 25,
+            "ActionTag": 1865513480,
+            "Size": {
+              "X": 53.0,
+              "Y": 53.0
+            },
+            "Name": "closeButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "nen_do.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 77,
+            "Scale9OriginY": 17,
+            "Scale9Width": 80,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1172.0745,
+              "Y": 1123.1572
+            },
+            "Scale": {
+              "ScaleX": 4.8886,
+              "ScaleY": 4.8886
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1055.0745,
+            "RightMargin": -1289.0745,
+            "TopMargin": -1149.6572,
+            "BottomMargin": 1096.6572,
+            "Tag": 26,
+            "ActionTag": 1336718328,
+            "Size": {
+              "X": 234.0,
+              "Y": 53.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "LabelText": "PHÓ BẢN",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_24.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1172.0662,
+              "Y": 1217.3599
+            },
+            "Scale": {
+              "ScaleX": 6.0678,
+              "ScaleY": 6.0678
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1108.5662,
+            "RightMargin": -1235.5662,
+            "TopMargin": -1236.3599,
+            "BottomMargin": 1198.3599,
+            "Tag": 27,
+            "ActionTag": -1378936042,
+            "Size": {
+              "X": 127.0,
+              "Y": 38.0
+            },
+            "Name": "BitmapFontLabel_3",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Số sao đạt được:",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_24.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1188.7898,
+              "Y": 851.3673
+            },
+            "Scale": {
+              "ScaleX": 2.7141,
+              "ScaleY": 2.7141
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1065.7898,
+            "RightMargin": -1311.7898,
+            "TopMargin": -870.3673,
+            "BottomMargin": 832.3673,
+            "Tag": 28,
+            "ActionTag": 951067199,
+            "Size": {
+              "X": 246.0,
+              "Y": 38.0
+            },
+            "Name": "BitmapFontLabel_4",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "trophy_find_match.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 48,
+            "Scale9OriginY": 14,
+            "Scale9Width": 50,
+            "Scale9Height": 16,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -1601.9418,
+              "Y": 1139.6733
+            },
+            "Scale": {
+              "ScaleX": 4.8762,
+              "ScaleY": 4.8762
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -1674.9418,
+            "RightMargin": 1528.9418,
+            "TopMargin": -1161.6733,
+            "BottomMargin": 1117.6733,
+            "Tag": 29,
+            "ActionTag": 104478100,
+            "Size": {
+              "X": 146.0,
+              "Y": 44.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "star_find_match.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 52,
+            "Scale9OriginY": 16,
+            "Scale9Width": 55,
+            "Scale9Height": 19,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1199.8083,
+              "Y": 701.4025
+            },
+            "Scale": {
+              "ScaleX": 5.1874,
+              "ScaleY": 5.1874
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1120.3083,
+            "RightMargin": -1279.3083,
+            "TopMargin": -726.9025,
+            "BottomMargin": 675.9025,
+            "Tag": 30,
+            "Children": [
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 64.0713,
+                  "Y": 22.0242
+                },
+                "Scale": {
+                  "ScaleX": 0.5386,
+                  "ScaleY": 0.5386
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.403,
+                  "Y": 0.4318
+                },
+                "PreSize": {
+                  "X": 1.3648,
+                  "Y": 0.7451
+                },
+                "LeftMargin": -44.4287,
+                "RightMargin": -13.5713,
+                "TopMargin": 9.9758,
+                "BottomMargin": 3.0242,
+                "Tag": 257,
+                "ActionTag": -1606876666,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "starQuantity",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -651182039,
+            "Size": {
+              "X": 159.0,
+              "Y": 51.0
+            },
+            "Name": "totalStarBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "avaiable_loot.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 109,
+            "Scale9OriginY": 20,
+            "Scale9Width": 113,
+            "Scale9Height": 20,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1296.7864,
+              "Y": -1321.2006
+            },
+            "Scale": {
+              "ScaleX": 7.5038,
+              "ScaleY": 7.5038
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 1131.2864,
+            "RightMargin": -1462.2864,
+            "TopMargin": 1290.7006,
+            "BottomMargin": -1351.7006,
+            "Tag": 43,
+            "Children": [
+              {
+                "LabelText": "Tài nguyên có thể lấy:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 147.9692,
+                  "Y": 45.6777
+                },
+                "Scale": {
+                  "ScaleX": 0.5184,
+                  "ScaleY": 0.5184
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.447,
+                  "Y": 0.7488
+                },
+                "PreSize": {
+                  "X": 0.9577,
+                  "Y": 0.623
+                },
+                "LeftMargin": -10.5308,
+                "RightMargin": 24.5308,
+                "TopMargin": -3.6777,
+                "BottomMargin": 26.6777,
+                "Tag": 252,
+                "ActionTag": 218272690,
+                "Size": {
+                  "X": 317.0,
+                  "Y": 38.0
+                },
+                "Name": "BitmapFontLabel_6",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "elixir_battle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 200.0,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6042,
+                  "Y": 0.3279
+                },
+                "PreSize": {
+                  "X": 0.0725,
+                  "Y": 0.5246
+                },
+                "LeftMargin": 188.0,
+                "RightMargin": 119.0,
+                "TopMargin": 25.0,
+                "BottomMargin": 4.0,
+                "Tag": 253,
+                "ActionTag": 2082268416,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 32.0
+                },
+                "Name": "Sprite_8",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gold_battle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.6882,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1622,
+                  "Y": 0.3279
+                },
+                "PreSize": {
+                  "X": 0.0846,
+                  "Y": 0.4918
+                },
+                "LeftMargin": 39.6882,
+                "RightMargin": 263.3118,
+                "TopMargin": 26.0,
+                "BottomMargin": 5.0,
+                "Tag": 254,
+                "ActionTag": -1692094329,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 30.0
+                },
+                "Name": "Sprite_9",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 68.7462,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4263,
+                  "ScaleY": 0.4263
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2077,
+                  "Y": 0.3279
+                },
+                "PreSize": {
+                  "X": 0.6556,
+                  "Y": 0.623
+                },
+                "LeftMargin": 68.7462,
+                "RightMargin": 45.2538,
+                "TopMargin": 22.0,
+                "BottomMargin": 1.0,
+                "Tag": 255,
+                "ActionTag": 1214317712,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "goldQuantity",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 213.7462,
+                  "Y": 20.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4263,
+                  "ScaleY": 0.4263
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6458,
+                  "Y": 0.3279
+                },
+                "PreSize": {
+                  "X": 0.6556,
+                  "Y": 0.623
+                },
+                "LeftMargin": 213.7462,
+                "RightMargin": -99.7462,
+                "TopMargin": 22.0,
+                "BottomMargin": 1.0,
+                "Tag": 256,
+                "ActionTag": -1050459235,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "elixirQuantity",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -860905023,
+            "Size": {
+              "X": 331.0,
+              "Y": 61.0
+            },
+            "Name": "resourceBackground",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "avaiable_loot.png",
+        "butto_close_fm.png",
+        "button_find_match.png",
+        "button2.png",
+        "elixir_battle.png",
+        "gold_battle.png",
+        "icon_point.png",
+        "map_point.png",
+        "mieng-nen_01.jpg",
+        "mieng-nen_02.jpg",
+        "mieng-nen_03.jpg",
+        "mieng-nen_04.jpg",
+        "mieng-nen_05.jpg",
+        "mieng-nen_06.jpg",
+        "nen_do.png",
+        "nen_find_match.png",
+        "nen_nut_dong.png",
+        "sao_den_2.png",
+        "small_star.png",
+        "soji_24.fnt",
+        "soji_24.png",
+        "stageDisable.png",
+        "stageDisable1.png",
+        "star_find_match.png",
+        "trophy_find_match.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

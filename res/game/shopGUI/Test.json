@@ -1,0 +1,79 @@
+{
+  "ID": "f3fcae24-fce5-45e6-8b18-6d930d9e1c0f",
+  "Version": "2.10.0.0",
+  "Name": "Test",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 131,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "slot.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 496.4971,
+              "Y": 333.3625
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5172,
+              "Y": 0.5209
+            },
+            "PreSize": {
+              "X": 0.2354,
+              "Y": 0.5078
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 383.4971,
+            "RightMargin": 350.5029,
+            "TopMargin": 144.1375,
+            "BottomMargin": 170.8625,
+            "Tag": 132,
+            "ActionTag": 929703703,
+            "Size": {
+              "X": 226.0,
+              "Y": 325.0
+            },
+            "Name": "slot_1",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "slot.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

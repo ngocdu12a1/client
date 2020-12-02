@@ -1,0 +1,186 @@
+{
+  "ID": "42b18535-008b-48ef-b6fc-89e048bfa490",
+  "Version": "3.10.0.0",
+  "Name": "Lobby",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 67,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1070.4529,
+              "Y": 61.76
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9423,
+              "Y": 0.0965
+            },
+            "PreSize": {
+              "X": 0.0854,
+              "Y": 0.1562
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 1021.9529,
+            "RightMargin": 17.0471,
+            "TopMargin": 528.24,
+            "BottomMargin": 11.76,
+            "CallBackType": "Touch",
+            "Tag": 135,
+            "ActionTag": 426719403,
+            "Size": {
+              "X": 97.0,
+              "Y": 100.0
+            },
+            "Name": "shopButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "003left_ic05.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "003left_ic05.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "003left_ic05.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 25,
+            "Scale9Height": 35,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 46.1879,
+              "Y": 157.2856
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0407,
+              "Y": 0.2458
+            },
+            "PreSize": {
+              "X": 0.0484,
+              "Y": 0.0891
+            },
+            "LeftMargin": 18.6879,
+            "RightMargin": 1062.312,
+            "TopMargin": 454.2144,
+            "BottomMargin": 128.7856,
+            "Tag": 51,
+            "ActionTag": -327705501,
+            "Size": {
+              "X": 55.0,
+              "Y": 57.0
+            },
+            "Name": "trainTroopButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "003left_ic05.png",
+        "shop.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

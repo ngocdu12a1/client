@@ -1,0 +1,107 @@
+{
+  "ID": "6c4b3f0e-6b06-424c-812c-eff028934a40",
+  "Version": "3.10.0.0",
+  "Name": "Scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 53,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "shop.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 67,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 896.4662,
+              "Y": 65.625
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9338,
+              "Y": 0.1025
+            },
+            "PreSize": {
+              "X": 0.101,
+              "Y": 0.1562
+            },
+            "LeftMargin": 847.9662,
+            "RightMargin": 15.0338,
+            "TopMargin": 524.375,
+            "BottomMargin": 15.625,
+            "Tag": 54,
+            "ActionTag": 1115439611,
+            "Size": {
+              "X": 97.0,
+              "Y": 100.0
+            },
+            "Name": "Button_1",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "shop.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

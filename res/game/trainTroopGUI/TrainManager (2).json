@@ -1,0 +1,186 @@
+{
+  "ID": "b0b2a81a-8753-49af-9c52-89e1e875ef1a",
+  "Version": "3.10.0.0",
+  "Name": "TrainTroopManager",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 62,
+        "Children": [
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 19,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 34.08,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.03,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0431,
+              "Y": 0.175
+            },
+            "HorizontalEdge": "LeftEdge",
+            "LeftMargin": 9.58,
+            "RightMargin": 1077.42,
+            "TopMargin": 264.0,
+            "BottomMargin": 264.0,
+            "Tag": 63,
+            "ActionTag": -1373101256,
+            "Size": {
+              "X": 49.0,
+              "Y": 112.0
+            },
+            "Name": "previousButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 19,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1101.92,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.97,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0431,
+              "Y": 0.175
+            },
+            "HorizontalEdge": "RightEdge",
+            "LeftMargin": 1077.42,
+            "RightMargin": 9.58,
+            "TopMargin": 264.0,
+            "BottomMargin": 264.0,
+            "Tag": 64,
+            "ActionTag": -1492146439,
+            "Size": {
+              "X": 49.0,
+              "Y": 112.0
+            },
+            "Name": "nextButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "forward.png",
+        "previous.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

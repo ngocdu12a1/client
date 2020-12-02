@@ -1,0 +1,27 @@
+{
+  "map": {
+    "mapObjects": [
+      {
+        "type": "BDH_1",
+        "level": 1,
+        "posX": 18,
+        "posY": 21,
+        "id": 10
+      },
+      {
+        "type": "AMC_1",
+        "level": 1,
+        "posX": 20,
+        "posY": 24,
+        "id": 11
+      },
+      {
+        "type": "TOW_1",
+        "level": 1,
+        "posX": 20,
+        "posY": 19,
+        "id": 12
+      }
+    ]
+  }
+}

@@ -1,0 +1,1027 @@
+{
+  "ID": "eead3749-bebb-43c9-a0d0-fee2af5e800f",
+  "Version": "3.10.0.0",
+  "Name": "Layer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 6,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -978.9852,
+              "Y": 150.0448
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -1.0198,
+              "Y": 0.2344
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -978.9852,
+            "RightMargin": 1938.9852,
+            "TopMargin": 489.9552,
+            "BottomMargin": 150.0448,
+            "Tag": 23,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "bg_troop_gui_battle.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 256,
+                "Scale9OriginY": 31,
+                "Scale9Width": 266,
+                "Scale9Height": 34,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 464.559,
+                  "Y": 233.4364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 414.559,
+                "RightMargin": -514.559,
+                "TopMargin": -283.4364,
+                "BottomMargin": 183.4364,
+                "Tag": 22,
+                "ActionTag": -982102507,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "Image_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "bang_ron.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 475.447,
+                  "Y": 410.5181
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 234.947,
+                "RightMargin": -715.947,
+                "TopMargin": -450.0181,
+                "BottomMargin": 371.0181,
+                "Tag": 7,
+                "ActionTag": -661040471,
+                "Size": {
+                  "X": 481.0,
+                  "Y": 79.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "sao_den.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.5326,
+                  "Y": 466.2364
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -1838.0,
+                "RotationSkewY": -1837.995,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 291.5326,
+                "RightMargin": -397.5326,
+                "TopMargin": -519.7364,
+                "BottomMargin": 412.7364,
+                "Tag": 8,
+                "ActionTag": -702743793,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "sao_den.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.7742,
+                  "Y": 481.1262
+                },
+                "Scale": {
+                  "ScaleX": 1.25,
+                  "ScaleY": 1.25
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 418.7742,
+                "RightMargin": -524.7742,
+                "TopMargin": -534.6262,
+                "BottomMargin": 427.6262,
+                "Tag": 9,
+                "ActionTag": 893553030,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "Sprite_3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "sao_den.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 607.312,
+                  "Y": 467.7543
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 1831.5431,
+                "RotationSkewY": 1831.5431,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 554.312,
+                "RightMargin": -660.312,
+                "TopMargin": -521.2543,
+                "BottomMargin": 414.2543,
+                "Tag": 10,
+                "ActionTag": -2058192149,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "Sprite_4",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "big_star.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 346.9347,
+                  "Y": 464.1855
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -35.1204,
+                "RotationSkewY": -35.1218,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 293.9347,
+                "RightMargin": -399.9347,
+                "TopMargin": -517.6855,
+                "BottomMargin": 410.6855,
+                "Tag": 11,
+                "ActionTag": 1200359876,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "star1",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "big_star.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 474.4512,
+                  "Y": 480.2458
+                },
+                "Scale": {
+                  "ScaleX": 1.3,
+                  "ScaleY": 1.3
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 421.4512,
+                "RightMargin": -527.4512,
+                "TopMargin": -533.7458,
+                "BottomMargin": 426.7458,
+                "Tag": 12,
+                "ActionTag": -1693785055,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "star2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "big_star.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 608.2041,
+                  "Y": 466.8596
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 32.3835,
+                "RotationSkewY": 32.3835,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 555.2041,
+                "RightMargin": -661.2041,
+                "TopMargin": -520.3596,
+                "BottomMargin": 413.3596,
+                "Tag": 13,
+                "ActionTag": -1171747320,
+                "Size": {
+                  "X": 106.0,
+                  "Y": 107.0
+                },
+                "Name": "star3",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 476.2323,
+                  "Y": 386.954
+                },
+                "Scale": {
+                  "ScaleX": 1.2623,
+                  "ScaleY": 1.2623
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 367.7323,
+                "RightMargin": -584.7323,
+                "TopMargin": -405.954,
+                "BottomMargin": 367.954,
+                "Tag": 14,
+                "ActionTag": 1157318085,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "resultLabel",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 155.0547,
+                  "Y": 177.9697
+                },
+                "Scale": {
+                  "ScaleX": 1.199,
+                  "ScaleY": 1.199
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 155.0547,
+                "RightMargin": -155.0547,
+                "TopMargin": -177.9697,
+                "BottomMargin": 177.9697,
+                "Tag": 16,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "bong.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -132.5,
+                    "RightMargin": -132.5,
+                    "TopMargin": -163.5,
+                    "BottomMargin": -163.5,
+                    "Tag": 15,
+                    "ActionTag": -410217787,
+                    "Size": {
+                      "X": 265.0,
+                      "Y": 327.0
+                    },
+                    "Name": "Sprite_8",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "bong1.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 259.9319,
+                      "Y": -131.4936
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 131.4319,
+                    "RightMargin": -388.4319,
+                    "TopMargin": 99.4936,
+                    "BottomMargin": -163.4936,
+                    "Tag": 17,
+                    "ActionTag": 1369011970,
+                    "Size": {
+                      "X": 257.0,
+                      "Y": 64.0
+                    },
+                    "Name": "Sprite_9",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "bong2.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 527.1749,
+                      "Y": 48.3388
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 388.1749,
+                    "RightMargin": -666.1749,
+                    "TopMargin": -260.3388,
+                    "BottomMargin": -163.6612,
+                    "Tag": 19,
+                    "ActionTag": -1731922794,
+                    "Size": {
+                      "X": 278.0,
+                      "Y": 424.0
+                    },
+                    "Name": "Sprite_11",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -2023258519,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "backgroundPanel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "Button",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "button_end_game.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "button_end_game.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "button_end_game.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 81,
+                "Scale9Height": 25,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 470.9637,
+                  "Y": 102.3323
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 415.4637,
+                "RightMargin": -526.4637,
+                "TopMargin": -125.8323,
+                "BottomMargin": 78.8323,
+                "Tag": 20,
+                "Children": [
+                  {
+                    "LabelText": "Về nhà",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "soji_24.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.3951,
+                      "Y": 22.2926
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5726,
+                      "ScaleY": 0.5726
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.49,
+                      "Y": 0.4743
+                    },
+                    "PreSize": {
+                      "X": 0.9459,
+                      "Y": 0.8085
+                    },
+                    "LeftMargin": 1.8951,
+                    "RightMargin": 4.1049,
+                    "TopMargin": 5.7074,
+                    "BottomMargin": 3.2926,
+                    "Tag": 21,
+                    "ActionTag": 1621003869,
+                    "Size": {
+                      "X": 105.0,
+                      "Y": 38.0
+                    },
+                    "Name": "BitmapFontLabel_2",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 382410916,
+                "Size": {
+                  "X": 111.0,
+                  "Y": 47.0
+                },
+                "Name": "goHomeButton",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "LabelText": "Tài nguyên nhận được:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 471.2234,
+                  "Y": 309.595
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 310.2234,
+                "RightMargin": -632.2234,
+                "TopMargin": -328.595,
+                "BottomMargin": 290.595,
+                "Tag": 18,
+                "ActionTag": -2000473267,
+                "Size": {
+                  "X": 322.0,
+                  "Y": 38.0
+                },
+                "Name": "BitmapFontLabel_1",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "elixir_battle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 388.2231,
+                  "Y": 215.6125
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 376.2231,
+                "RightMargin": -400.2231,
+                "TopMargin": -231.6125,
+                "BottomMargin": 199.6125,
+                "Tag": 19,
+                "ActionTag": 1056295859,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 32.0
+                },
+                "Name": "Sprite_5",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 410.0,
+                  "Y": 259.1761
+                },
+                "Scale": {
+                  "ScaleX": 0.55,
+                  "ScaleY": 0.55
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 410.0,
+                "RightMargin": -627.0,
+                "TopMargin": -278.1761,
+                "BottomMargin": 240.1761,
+                "Tag": 20,
+                "ActionTag": -190577382,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "goldQuantity",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "gold_battle.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 388.6892,
+                  "Y": 260.8847
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 374.6892,
+                "RightMargin": -402.6892,
+                "TopMargin": -275.8847,
+                "BottomMargin": 245.8847,
+                "Tag": 21,
+                "ActionTag": 1635026401,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 30.0
+                },
+                "Name": "Sprite_6",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_24.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 410.0,
+                  "Y": 212.8479
+                },
+                "Scale": {
+                  "ScaleX": 0.55,
+                  "ScaleY": 0.55
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 410.0,
+                "RightMargin": -627.0,
+                "TopMargin": -231.8479,
+                "BottomMargin": 193.8479,
+                "Tag": 22,
+                "ActionTag": 1284277464,
+                "Size": {
+                  "X": 217.0,
+                  "Y": 38.0
+                },
+                "Name": "elixirQuantity",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1420737057,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "bang_ron.png",
+        "bg_troop_gui_battle.png",
+        "big_star.png",
+        "bong.png",
+        "bong1.png",
+        "bong2.png",
+        "button_end_game.png",
+        "elixir_battle.png",
+        "gold_battle.png",
+        "sao_den.png",
+        "soji_24.fnt",
+        "soji_24.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

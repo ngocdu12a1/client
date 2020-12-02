@@ -1,0 +1,1187 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "3.10.0.0",
+  "Name": "UserResource",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1250.0,
+              "Y": 700.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.9766,
+              "Y": 0.9722
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "RightEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 1250.0,
+            "RightMargin": 30.0,
+            "TopMargin": 20.0,
+            "BottomMargin": 700.0,
+            "Tag": 37,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/bg_bar_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -63.5,
+                  "Y": -14.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -127.0,
+                "BottomMargin": -28.0,
+                "Tag": 38,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/gold_icon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.7,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.1,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2205,
+                      "Y": 1.0357
+                    },
+                    "LeftMargin": 125.7,
+                    "RightMargin": -26.7,
+                    "TopMargin": -0.5,
+                    "BottomMargin": -0.5,
+                    "Tag": 40,
+                    "ActionTag": -1651276583,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 29.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ProgressInfo": 70,
+                    "ProgressType": "Right_To_Left",
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/gold_bar.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4724,
+                      "Y": 0.6071
+                    },
+                    "PreSize": {
+                      "X": 0.9291,
+                      "Y": 0.7143
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 39,
+                    "ActionTag": 663504017,
+                    "Size": {
+                      "X": 118.0,
+                      "Y": 20.0
+                    },
+                    "Name": "ProgressBar",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "LabelText": "Max:123.456.789",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 36.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 1.3
+                    },
+                    "PreSize": {
+                      "X": 1.0472,
+                      "Y": 0.6786
+                    },
+                    "RightMargin": -6.0,
+                    "TopMargin": -17.9,
+                    "BottomMargin": 26.9,
+                    "Tag": 45,
+                    "ActionTag": 2120380853,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 19.0
+                    },
+                    "Name": "MaxCapacity",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "123.456",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.0,
+                      "Y": 16.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9134,
+                      "Y": 0.5893
+                    },
+                    "PreSize": {
+                      "X": 0.5197,
+                      "Y": 0.6786
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 50.0,
+                    "RightMargin": 11.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 46,
+                    "ActionTag": -326768815,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Capacity",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -850449844,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 28.0
+                },
+                "Name": "GoldInfo",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/bg_bar_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -63.5,
+                  "Y": -59.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -127.0,
+                "TopMargin": 45.0,
+                "BottomMargin": -73.0,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/elixir_icon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.7,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.1,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2126,
+                      "Y": 1.1429
+                    },
+                    "LeftMargin": 126.2,
+                    "RightMargin": -26.2,
+                    "TopMargin": -2.0,
+                    "BottomMargin": -2.0,
+                    "Tag": 48,
+                    "ActionTag": 709143214,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ProgressInfo": 70,
+                    "ProgressType": "Right_To_Left",
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/elixir_bar.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4724,
+                      "Y": 0.6071
+                    },
+                    "PreSize": {
+                      "X": 0.9291,
+                      "Y": 0.7143
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 49,
+                    "ActionTag": 1048539525,
+                    "Size": {
+                      "X": 118.0,
+                      "Y": 20.0
+                    },
+                    "Name": "ProgressBar",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "LabelText": "Max:123.456.789",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 36.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 1.3
+                    },
+                    "PreSize": {
+                      "X": 1.0472,
+                      "Y": 0.6786
+                    },
+                    "RightMargin": -6.0,
+                    "TopMargin": -17.9,
+                    "BottomMargin": 26.9,
+                    "Tag": 51,
+                    "ActionTag": 593152963,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 19.0
+                    },
+                    "Name": "MaxCapacity",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "123.456",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.0,
+                      "Y": 16.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9134,
+                      "Y": 0.5893
+                    },
+                    "PreSize": {
+                      "X": 0.5197,
+                      "Y": 0.6786
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 50.0,
+                    "RightMargin": 11.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 52,
+                    "ActionTag": -197946659,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Capacity",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -840204577,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 28.0
+                },
+                "Name": "ElixirInfo",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/bg_bar_2.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -63.5,
+                  "Y": -104.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -127.0,
+                "TopMargin": 90.0,
+                "BottomMargin": -118.0,
+                "Tag": 53,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/darkElixir_icon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 139.7,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.1,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.1969,
+                      "Y": 1.1429
+                    },
+                    "LeftMargin": 127.2,
+                    "RightMargin": -25.2,
+                    "TopMargin": -2.0,
+                    "BottomMargin": -2.0,
+                    "Tag": 54,
+                    "ActionTag": -605147625,
+                    "Size": {
+                      "X": 25.0,
+                      "Y": 32.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "ProgressInfo": 70,
+                    "ProgressType": "Right_To_Left",
+                    "ImageFileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/darkElixir_bar.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4724,
+                      "Y": 0.6071
+                    },
+                    "PreSize": {
+                      "X": 0.9291,
+                      "Y": 0.7143
+                    },
+                    "HorizontalEdge": "LeftEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 1.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 1.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 55,
+                    "ActionTag": 1167548930,
+                    "Size": {
+                      "X": 118.0,
+                      "Y": 20.0
+                    },
+                    "Name": "ProgressBar",
+                    "ctype": "LoadingBarObjectData"
+                  },
+                  {
+                    "LabelText": "Max:123.456.789",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 36.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 1.3
+                    },
+                    "PreSize": {
+                      "X": 1.0472,
+                      "Y": 0.6786
+                    },
+                    "RightMargin": -6.0,
+                    "TopMargin": -17.9,
+                    "BottomMargin": 26.9,
+                    "Tag": 57,
+                    "ActionTag": -838233889,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 19.0
+                    },
+                    "Name": "MaxCapacity",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "LabelText": "123.456",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.0,
+                      "Y": 16.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9134,
+                      "Y": 0.5893
+                    },
+                    "PreSize": {
+                      "X": 0.5197,
+                      "Y": 0.6786
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 50.0,
+                    "RightMargin": 11.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 58,
+                    "ActionTag": 750041192,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Capacity",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -852957282,
+                "Size": {
+                  "X": 127.0,
+                  "Y": 28.0
+                },
+                "Name": "DarkElixirInfo",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/bg_bar_3.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -53.5,
+                  "Y": -139.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "HorizontalEdge": "RightEdge",
+                "VerticalEdge": "TopEdge",
+                "LeftMargin": -107.0,
+                "TopMargin": 125.0,
+                "BottomMargin": -153.0,
+                "Tag": 59,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "game/UserInfoGUI/g_icon.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 117.7,
+                      "Y": 14.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.1,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.2523,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 104.2,
+                    "RightMargin": -24.2,
+                    "Tag": 60,
+                    "ActionTag": 1182262675,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 28.0
+                    },
+                    "Name": "Icon",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "LabelText": "123.456",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "fonts/soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 95.0,
+                      "Y": 16.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8879,
+                      "Y": 0.5893
+                    },
+                    "PreSize": {
+                      "X": 0.6168,
+                      "Y": 0.6786
+                    },
+                    "HorizontalEdge": "RightEdge",
+                    "VerticalEdge": "TopEdge",
+                    "LeftMargin": 29.0,
+                    "RightMargin": 12.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": 7.0,
+                    "Tag": 64,
+                    "ActionTag": -656131775,
+                    "Size": {
+                      "X": 66.0,
+                      "Y": 19.0
+                    },
+                    "Name": "Capacity",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1387347628,
+                "Size": {
+                  "X": 107.0,
+                  "Y": 28.0
+                },
+                "Name": "CoinInfo",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 595894444,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "ResourceInfo",
+            "ctype": "SingleNodeObjectData"
+          },
+          {
+            "AnchorPoint": {},
+            "Position": {
+              "X": 102.7841,
+              "Y": 699.9016
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.0803,
+              "Y": 0.9721
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "LeftEdge",
+            "VerticalEdge": "TopEdge",
+            "LeftMargin": 102.7841,
+            "RightMargin": 1177.2159,
+            "TopMargin": 20.0984,
+            "BottomMargin": 699.9016,
+            "Tag": 305,
+            "Children": [
+              {
+                "LabelText": "Phó bản",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -43.5,
+                "RightMargin": -43.5,
+                "TopMargin": -12.5,
+                "BottomMargin": -12.5,
+                "Tag": 324,
+                "ActionTag": 879359632,
+                "Size": {
+                  "X": 87.0,
+                  "Y": 25.0
+                },
+                "Name": "BitmapFontLabel_8",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "Tài nguyên có thể lấy:",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -2.1534,
+                  "Y": -19.3806
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -87.1534,
+                "RightMargin": -82.8466,
+                "TopMargin": 9.8806,
+                "BottomMargin": -28.8806,
+                "Tag": 325,
+                "ActionTag": 1442104114,
+                "Size": {
+                  "X": 170.0,
+                  "Y": 19.0
+                },
+                "Name": "BitmapFontLabel_9",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/elixir_icon.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -63.741,
+                  "Y": -91.0578
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -77.241,
+                "RightMargin": 50.241,
+                "TopMargin": 75.0578,
+                "BottomMargin": -107.0578,
+                "Tag": 326,
+                "ActionTag": -732334318,
+                "Size": {
+                  "X": 27.0,
+                  "Y": 32.0
+                },
+                "Name": "Sprite_9",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "game/UserInfoGUI/gold_icon.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -63.741,
+                  "Y": -51.1324
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -77.741,
+                "RightMargin": 49.741,
+                "TopMargin": 36.6324,
+                "BottomMargin": -65.6324,
+                "Tag": 327,
+                "ActionTag": -908413666,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 29.0
+                },
+                "Name": "Sprite_10",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -47.0,
+                  "Y": -50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -47.0,
+                "RightMargin": -71.0,
+                "TopMargin": 40.5,
+                "BottomMargin": -59.5,
+                "Tag": 328,
+                "ActionTag": -2091382906,
+                "Size": {
+                  "X": 118.0,
+                  "Y": 19.0
+                },
+                "Name": "goldQuantity",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": "Fnt Text Label",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -47.0,
+                  "Y": -90.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -47.0,
+                "RightMargin": -71.0,
+                "TopMargin": 80.5,
+                "BottomMargin": -99.5,
+                "Tag": 329,
+                "ActionTag": -181411753,
+                "Size": {
+                  "X": 118.0,
+                  "Y": 19.0
+                },
+                "Name": "elixirQuantity",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 1099182680,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "CampaignInfo",
+            "ctype": "SingleNodeObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../fonts/soji_12.fnt",
+        "../fonts/soji_12.png",
+        "../fonts/soji_16.fnt",
+        "../fonts/soji_16.png",
+        "UserInfoGUI/bg_bar_2.png",
+        "UserInfoGUI/bg_bar_3.png",
+        "UserInfoGUI/darkElixir_bar.png",
+        "UserInfoGUI/darkElixir_icon.png",
+        "UserInfoGUI/elixir_bar.png",
+        "UserInfoGUI/elixir_icon.png",
+        "UserInfoGUI/g_icon.png",
+        "UserInfoGUI/gold_bar.png",
+        "UserInfoGUI/gold_icon.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

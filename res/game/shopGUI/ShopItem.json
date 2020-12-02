@@ -1,0 +1,512 @@
+{
+  "ID": "c8e844d4-b2dc-478d-b9ea-8543548a86f4",
+  "Version": "3.10.0.0",
+  "Name": "ShopItem",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 50,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "slot.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -113.0,
+            "RightMargin": -113.0,
+            "TopMargin": -162.5,
+            "BottomMargin": -162.5,
+            "Tag": 18,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "info.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "info.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "info.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 7,
+                "Scale9Height": 17,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 201.0044,
+                  "Y": 300.0075
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8894,
+                  "Y": 0.9231
+                },
+                "PreSize": {
+                  "X": 0.1637,
+                  "Y": 0.12
+                },
+                "LeftMargin": 182.5044,
+                "RightMargin": 6.4956,
+                "TopMargin": 5.4925,
+                "BottomMargin": 280.5075,
+                "Tag": 52,
+                "ActionTag": -1186774736,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 39.0
+                },
+                "Name": "shop_infoButton",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "time.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 30.4315,
+                  "Y": 86.0148
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1347,
+                  "Y": 0.2647
+                },
+                "PreSize": {
+                  "X": 0.1239,
+                  "Y": 0.1292
+                },
+                "LeftMargin": 16.4315,
+                "RightMargin": 181.5685,
+                "TopMargin": 217.9852,
+                "BottomMargin": 65.0148,
+                "Tag": 53,
+                "ActionTag": 444053572,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 42.0
+                },
+                "Name": "time",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "LabelText": "0s",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.2506,
+                  "Y": 81.25
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1781,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.1637,
+                  "Y": 0.0769
+                },
+                "LeftMargin": 40.2506,
+                "RightMargin": 148.7494,
+                "TopMargin": 231.25,
+                "BottomMargin": 68.75,
+                "Tag": 21,
+                "ActionTag": -1396379144,
+                "Size": {
+                  "X": 37.0,
+                  "Y": 25.0
+                },
+                "Name": "buildTime",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "LabelText": " ",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 214.6096,
+                  "Y": 81.25
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9496,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0769
+                },
+                "LeftMargin": 214.6096,
+                "RightMargin": 11.3904,
+                "TopMargin": 231.25,
+                "BottomMargin": 68.75,
+                "Tag": 22,
+                "ActionTag": 1927960624,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 25.0
+                },
+                "Name": "amount",
+                "ctype": "TextBMFontObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "item_background.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.0,
+                  "Y": 162.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0398,
+                  "Y": 1.0
+                },
+                "LeftMargin": -4.5,
+                "RightMargin": -4.5,
+                "Tag": 60,
+                "ActionTag": 4009169,
+                "Size": {
+                  "X": 235.0,
+                  "Y": 325.0
+                },
+                "Name": "item_background",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "button-disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "button.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "button.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 91,
+                "Scale9Height": 26,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.0,
+                  "Y": 36.985
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1138
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 0.9,
+                  "Y": 0.1477
+                },
+                "LeftMargin": 11.3,
+                "RightMargin": 11.3,
+                "TopMargin": 264.0137,
+                "BottomMargin": 12.9838,
+                "Tag": 20,
+                "Children": [
+                  {
+                    "LabelText": "500000",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "soji_12.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 101.7,
+                      "Y": 24.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3687,
+                      "Y": 0.3958
+                    },
+                    "LeftMargin": 64.2,
+                    "RightMargin": 64.2,
+                    "TopMargin": 14.5025,
+                    "BottomMargin": 14.5,
+                    "Tag": 23,
+                    "ActionTag": -1421594642,
+                    "Size": {
+                      "X": 75.0,
+                      "Y": 19.0
+                    },
+                    "Name": "price",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 10965867,
+                "Size": {
+                  "X": 203.4,
+                  "Y": 48.0025
+                },
+                "Name": "buyButton",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -965377362,
+            "Size": {
+              "X": 226.0,
+              "Y": 325.0
+            },
+            "Name": "item",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "ACM_1",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.0,
+              "Y": 133.2283
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -34.5,
+            "RightMargin": -34.5,
+            "TopMargin": -145.7283,
+            "BottomMargin": 120.7283,
+            "Tag": 170,
+            "ActionTag": 1327965550,
+            "Size": {
+              "X": 69.0,
+              "Y": 25.0
+            },
+            "Name": "title",
+            "ctype": "TextBMFontObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "button.png",
+        "button-disable.png",
+        "info.png",
+        "item_background.png",
+        "slot.png",
+        "soji_12.fnt",
+        "soji_12.png",
+        "soji_16.fnt",
+        "soji_16.png",
+        "time.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

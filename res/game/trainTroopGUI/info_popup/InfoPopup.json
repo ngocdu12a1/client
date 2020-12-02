@@ -1,0 +1,1378 @@
+{
+  "ID": "d88076d5-b704-45bd-8ed1-15e1344093cd",
+  "Version": "3.10.0.0",
+  "Name": "InfoPopup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 74,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "background.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 51,
+            "Scale9OriginY": 41,
+            "Scale9Width": 293,
+            "Scale9Height": 180,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 481.056,
+              "Y": 318.272
+            },
+            "Scale": {
+              "ScaleX": 1.0735,
+              "ScaleY": 0.8812
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5011,
+              "Y": 0.4973
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 0.8,
+              "Y": 1.0
+            },
+            "LeftMargin": 97.056,
+            "RightMargin": 94.944,
+            "TopMargin": 1.728,
+            "BottomMargin": -1.728,
+            "Tag": 15,
+            "ActionTag": 75381935,
+            "Size": {
+              "X": 768.0,
+              "Y": 640.0
+            },
+            "Name": "background",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "LabelText": "Fnt Text Label",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 580.4
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.9069
+            },
+            "PreSize": {
+              "X": 0.1573,
+              "Y": 0.0391
+            },
+            "LeftMargin": 404.5,
+            "RightMargin": 404.5,
+            "TopMargin": 47.1,
+            "BottomMargin": 567.9,
+            "Tag": 16,
+            "ActionTag": 1953412839,
+            "Size": {
+              "X": 151.0,
+              "Y": 25.0
+            },
+            "Name": "title",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "troop_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 97,
+            "Scale9OriginY": 35,
+            "Scale9Width": 101,
+            "Scale9Height": 39,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 233.8071,
+              "Y": 305.3112
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2435,
+              "Y": 0.477
+            },
+            "PreSize": {
+              "X": 0.3073,
+              "Y": 0.1703
+            },
+            "LeftMargin": 86.3071,
+            "RightMargin": 578.6929,
+            "TopMargin": 280.1888,
+            "BottomMargin": 250.8112,
+            "Tag": 28,
+            "ActionTag": -403985865,
+            "Size": {
+              "X": 295.0,
+              "Y": 109.0
+            },
+            "Name": "troopBackground",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Heal_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 487.787
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7622
+            },
+            "PreSize": {
+              "X": 0.0323,
+              "Y": 0.0484
+            },
+            "LeftMargin": 464.5,
+            "RightMargin": 464.5,
+            "TopMargin": 136.713,
+            "BottomMargin": 472.287,
+            "Tag": 21,
+            "ActionTag": 442034373,
+            "Size": {
+              "X": 31.0,
+              "Y": 31.0
+            },
+            "Name": "health",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "Damage_Icon.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 534.415
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.835
+            },
+            "PreSize": {
+              "X": 0.0427,
+              "Y": 0.0531
+            },
+            "LeftMargin": 459.5,
+            "RightMargin": 459.5,
+            "TopMargin": 88.585,
+            "BottomMargin": 517.415,
+            "Tag": 22,
+            "ActionTag": 1315863706,
+            "Size": {
+              "X": 41.0,
+              "Y": 34.0
+            },
+            "Name": "damage",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BUFF_ELIXIR.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 444.5769
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6947
+            },
+            "PreSize": {
+              "X": 0.0281,
+              "Y": 0.0531
+            },
+            "LeftMargin": 466.5,
+            "RightMargin": 466.5,
+            "TopMargin": 178.4231,
+            "BottomMargin": 427.5769,
+            "Tag": 24,
+            "ActionTag": 880311814,
+            "Size": {
+              "X": 27.0,
+              "Y": 34.0
+            },
+            "Name": "elixir",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 859.1902,
+              "Y": 578.4489
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.895,
+              "Y": 0.9038
+            },
+            "PreSize": {
+              "X": 0.049,
+              "Y": 0.0734
+            },
+            "LeftMargin": 835.6902,
+            "RightMargin": 77.3098,
+            "TopMargin": 38.0511,
+            "BottomMargin": 554.9489,
+            "Tag": 25,
+            "ActionTag": 657944567,
+            "Size": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Name": "closeButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.4948,
+              "Y": 531.6169
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.687,
+              "Y": 0.8307
+            },
+            "PreSize": {
+              "X": 0.324,
+              "Y": 0.0562
+            },
+            "LeftMargin": 503.9948,
+            "RightMargin": 145.0052,
+            "TopMargin": 90.3831,
+            "BottomMargin": 513.6169,
+            "Tag": 33,
+            "Children": [
+              {
+                "ProgressInfo": 23,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "info_bar_BG.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.5,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 35,
+                "ActionTag": -237195654,
+                "Size": {
+                  "X": 311.0,
+                  "Y": 36.0
+                },
+                "Name": "progressBar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "LabelText": "Sát thương: 11",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.5,
+                  "Y": 32.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.3762,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 97.0,
+                "RightMargin": 97.0,
+                "TopMargin": -5.9,
+                "BottomMargin": 22.9,
+                "Tag": 42,
+                "ActionTag": 1654674053,
+                "Size": {
+                  "X": 117.0,
+                  "Y": 19.0
+                },
+                "Name": "barTitle",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 296182048,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "damagePerAttack",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 659.0903,
+              "Y": 488.201
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6866,
+              "Y": 0.7628
+            },
+            "PreSize": {
+              "X": 0.324,
+              "Y": 0.0562
+            },
+            "LeftMargin": 503.5903,
+            "RightMargin": 145.4097,
+            "TopMargin": 133.799,
+            "BottomMargin": 470.201,
+            "Tag": 38,
+            "Children": [
+              {
+                "ProgressInfo": 17,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "info_bar_BG.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.5,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 39,
+                "ActionTag": 1339053789,
+                "Size": {
+                  "X": 311.0,
+                  "Y": 36.0
+                },
+                "Name": "progressBar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "LabelText": "Máu: 25",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.5,
+                  "Y": 32.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.2154,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 122.0,
+                "RightMargin": 122.0,
+                "TopMargin": -5.9,
+                "BottomMargin": 22.9,
+                "Tag": 43,
+                "ActionTag": -1577679084,
+                "Size": {
+                  "X": 67.0,
+                  "Y": 19.0
+                },
+                "Name": "barTitle",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -1961842984,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "hitpoints",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "info_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 658.9869,
+              "Y": 445.7857
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6864,
+              "Y": 0.6965
+            },
+            "PreSize": {
+              "X": 0.324,
+              "Y": 0.0562
+            },
+            "LeftMargin": 503.4869,
+            "RightMargin": 145.5131,
+            "TopMargin": 176.2143,
+            "BottomMargin": 427.7857,
+            "Tag": 40,
+            "Children": [
+              {
+                "ProgressInfo": 10,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "info_bar_BG.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 153.5096,
+                  "Y": 18.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4936,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -1.9904,
+                "RightMargin": 1.9904,
+                "Tag": 41,
+                "ActionTag": -1853044573,
+                "Size": {
+                  "X": 311.0,
+                  "Y": 36.0
+                },
+                "Name": "progressBar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "LabelText": "Giá: 25",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "soji_12.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 155.5,
+                  "Y": 32.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.1929,
+                  "Y": 0.5278
+                },
+                "LeftMargin": 125.5,
+                "RightMargin": 125.5,
+                "TopMargin": -5.9,
+                "BottomMargin": 22.9,
+                "Tag": 44,
+                "ActionTag": 1589052382,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 19.0
+                },
+                "Name": "barTitle",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": -525019210,
+            "Size": {
+              "X": 311.0,
+              "Y": 36.0
+            },
+            "Name": "trainingElixir",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.5318,
+              "Y": 396.45
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.6195
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 462.5318,
+            "RightMargin": 312.4682,
+            "TopMargin": 231.05,
+            "BottomMargin": 383.95,
+            "Tag": 45,
+            "ActionTag": -816757906,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Hình thức tấn công:",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.5315,
+              "Y": 369.45
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.5773
+            },
+            "PreSize": {
+              "X": 0.2042,
+              "Y": 0.0391
+            },
+            "LeftMargin": 451.5315,
+            "RightMargin": 312.4685,
+            "TopMargin": 258.05,
+            "BottomMargin": 356.95,
+            "Tag": 48,
+            "ActionTag": -1292654026,
+            "Size": {
+              "X": 196.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu:",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.53,
+              "Y": 344.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.5382
+            },
+            "PreSize": {
+              "X": 0.1042,
+              "Y": 0.0391
+            },
+            "LeftMargin": 547.53,
+            "RightMargin": 312.47,
+            "TopMargin": 283.06,
+            "BottomMargin": 331.94,
+            "Tag": 49,
+            "ActionTag": 311994085,
+            "Size": {
+              "X": 100.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6_0_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Tốc độ di chuyển: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.53,
+              "Y": 318.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.4976
+            },
+            "PreSize": {
+              "X": 0.1844,
+              "Y": 0.0391
+            },
+            "LeftMargin": 470.53,
+            "RightMargin": 312.47,
+            "TopMargin": 309.06,
+            "BottomMargin": 305.94,
+            "Tag": 50,
+            "ActionTag": -1140767961,
+            "Size": {
+              "X": 177.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6_0_0_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Thời gian luyện: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.53,
+              "Y": 293.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.1625,
+              "Y": 0.0391
+            },
+            "LeftMargin": 491.53,
+            "RightMargin": 312.47,
+            "TopMargin": 334.06,
+            "BottomMargin": 280.94,
+            "Tag": 51,
+            "ActionTag": -2010928869,
+            "Size": {
+              "X": 156.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6_0_0_0_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Chỗ ở: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 1.0,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 647.53,
+              "Y": 266.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 203,
+              "G": 104,
+              "B": 104
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6745,
+              "Y": 0.4163
+            },
+            "PreSize": {
+              "X": 0.0719,
+              "Y": 0.0391
+            },
+            "LeftMargin": 578.53,
+            "RightMargin": 312.47,
+            "TopMargin": 361.06,
+            "BottomMargin": 253.94,
+            "Tag": 52,
+            "ActionTag": 1853878391,
+            "Size": {
+              "X": 69.0,
+              "Y": 25.0
+            },
+            "Name": "BitmapFontLabel_6_0_0_0_0_0",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.5342,
+              "Y": 396.45
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.6195
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.5342,
+            "RightMargin": 129.4658,
+            "TopMargin": 231.05,
+            "BottomMargin": 383.95,
+            "Tag": 53,
+            "ActionTag": -1788524204,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "favoriteTarget",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.5301,
+              "Y": 369.45
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.5773
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.5301,
+            "RightMargin": 129.4699,
+            "TopMargin": 258.05,
+            "BottomMargin": 356.95,
+            "Tag": 54,
+            "ActionTag": -87524248,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "attackRadius",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.53,
+              "Y": 344.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.5382
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.53,
+            "RightMargin": 129.47,
+            "TopMargin": 283.06,
+            "BottomMargin": 331.94,
+            "Tag": 55,
+            "ActionTag": 740806849,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "attackArea",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.53,
+              "Y": 318.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.4976
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.53,
+            "RightMargin": 129.47,
+            "TopMargin": 309.06,
+            "BottomMargin": 305.94,
+            "Tag": 56,
+            "ActionTag": 893069285,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "moveSpeed",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.53,
+              "Y": 293.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.4585
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.53,
+            "RightMargin": 129.47,
+            "TopMargin": 334.06,
+            "BottomMargin": 280.94,
+            "Tag": 57,
+            "ActionTag": 1942007543,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "trainingTime",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Mục tiêu ưa thích: ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 645.53,
+              "Y": 266.44
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 30,
+              "G": 144
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6724,
+              "Y": 0.4163
+            },
+            "PreSize": {
+              "X": 0.1927,
+              "Y": 0.0391
+            },
+            "LeftMargin": 645.53,
+            "RightMargin": 129.47,
+            "TopMargin": 361.06,
+            "BottomMargin": 253.94,
+            "Tag": 58,
+            "ActionTag": -241900640,
+            "Size": {
+              "X": 185.0,
+              "Y": 25.0
+            },
+            "Name": "housingSpace",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ARM_1_1.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 217.9835,
+              "Y": 416.9694
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2271,
+              "Y": 0.6515
+            },
+            "PreSize": {
+              "X": 0.3083,
+              "Y": 0.4922
+            },
+            "LeftMargin": 69.9835,
+            "RightMargin": 594.0165,
+            "TopMargin": 65.5306,
+            "BottomMargin": 259.4694,
+            "Tag": 61,
+            "ActionTag": -964182618,
+            "Size": {
+              "X": 296.0,
+              "Y": 315.0
+            },
+            "Name": "troop",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ARM_1_1.png",
+        "background.png",
+        "BUFF_ELIXIR.png",
+        "close.png",
+        "Damage_Icon.png",
+        "Heal_Icon.png",
+        "info_bar.png",
+        "info_bar_BG.png",
+        "soji_12.fnt",
+        "soji_12.png",
+        "soji_16.fnt",
+        "soji_16.png",
+        "troop_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

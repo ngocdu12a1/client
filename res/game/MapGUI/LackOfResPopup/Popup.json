@@ -1,0 +1,403 @@
+{
+  "ID": "2f1309d7-a5df-4711-b87b-aac94773e370",
+  "Version": "3.10.0.0",
+  "Name": "Popup",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 23,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BG.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 0.6479,
+              "Y": 2.5985
+            },
+            "Scale": {
+              "ScaleX": 0.9735,
+              "ScaleY": 0.9103
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -194.8521,
+            "RightMargin": -196.1479,
+            "TopMargin": -139.0985,
+            "BottomMargin": -133.9015,
+            "Tag": 24,
+            "ActionTag": 1457249374,
+            "Size": {
+              "X": 391.0,
+              "Y": 273.0
+            },
+            "Name": "Sprite_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "mieng_trang.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 2.0007,
+              "Y": 21.0004
+            },
+            "Scale": {
+              "ScaleX": 0.4839,
+              "ScaleY": 1.0174
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -338.9993,
+            "RightMargin": -343.0007,
+            "TopMargin": -78.5004,
+            "BottomMargin": -36.4996,
+            "Tag": 10,
+            "ActionTag": 285920708,
+            "Size": {
+              "X": 682.0,
+              "Y": 115.0
+            },
+            "Name": "Sprite_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "LabelText": "Thiếu tài nguyên",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -0.9915,
+              "Y": 104.8058
+            },
+            "Scale": {
+              "ScaleX": 0.7442,
+              "ScaleY": 0.6735
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -103.9915,
+            "RightMargin": -102.0085,
+            "TopMargin": -120.8058,
+            "BottomMargin": 88.8058,
+            "Tag": 25,
+            "ActionTag": -967894855,
+            "Size": {
+              "X": 206.0,
+              "Y": 32.0
+            },
+            "Name": "BitmapFontLabel_1",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "LabelText": "Bạn có muốn mua tài nguyên còn thiếu?",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 6.13,
+              "Y": 56.885
+            },
+            "Scale": {
+              "ScaleX": 0.5901,
+              "ScaleY": 0.5901
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -230.87,
+            "RightMargin": -243.13,
+            "TopMargin": -72.885,
+            "BottomMargin": 40.885,
+            "Tag": 26,
+            "ActionTag": 1714175368,
+            "Size": {
+              "X": 474.0,
+              "Y": 32.0
+            },
+            "Name": "text",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "button2.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "button2.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "button2.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 111,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -76.1093,
+              "Y": -62.9131
+            },
+            "Scale": {
+              "ScaleX": 0.6837,
+              "ScaleY": 0.7122
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -146.6093,
+            "RightMargin": 5.6093,
+            "TopMargin": 32.9131,
+            "BottomMargin": -92.9131,
+            "Tag": 27,
+            "ActionTag": 317579288,
+            "Size": {
+              "X": 141.0,
+              "Y": 60.0
+            },
+            "Name": "cancelButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "LabelText": "Hủy bỏ",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_20.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -78.7021,
+              "Y": -61.6216
+            },
+            "Scale": {
+              "ScaleX": 0.7325,
+              "ScaleY": 0.8381
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -124.7021,
+            "RightMargin": 32.7021,
+            "TopMargin": 45.6216,
+            "BottomMargin": -77.6216,
+            "Tag": 28,
+            "ActionTag": 371731881,
+            "Size": {
+              "X": 92.0,
+              "Y": 32.0
+            },
+            "Name": "BitmapFontLabel_3",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "button.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 107,
+            "Scale9Height": 38,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 82.5445,
+              "Y": -62.9146
+            },
+            "Scale": {
+              "ScaleX": 0.542,
+              "ScaleY": 0.6327
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 0.5445,
+            "RightMargin": -164.5445,
+            "TopMargin": 29.4146,
+            "BottomMargin": -96.4146,
+            "Tag": 29,
+            "ActionTag": 1354267826,
+            "Size": {
+              "X": 164.0,
+              "Y": 67.0
+            },
+            "Name": "acceptButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Node",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "BG.png",
+        "button.png",
+        "button2.png",
+        "mieng_trang.png",
+        "soji_20.fnt",
+        "soji_20.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Node"
+}

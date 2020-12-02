@@ -1,0 +1,233 @@
+{
+  "ID": "f52e64c3-9389-4a6d-be04-493f00762143",
+  "Version": "3.10.0.0",
+  "Name": "TrainManager",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 59,
+        "Children": [
+          {
+            "LabelText": "Tổng số lính sau khi luyện",
+            "LabelBMFontFile_CNB": {
+              "Type": "Normal",
+              "Path": "soji_16.fnt",
+              "Plist": ""
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 268.9222,
+              "Y": 409.6577
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.2367,
+              "Y": 0.6401
+            },
+            "PreSize": {
+              "X": 0.2227,
+              "Y": 0.0391
+            },
+            "LeftMargin": 142.4222,
+            "RightMargin": 740.5778,
+            "TopMargin": 217.8423,
+            "BottomMargin": 397.1577,
+            "Tag": 60,
+            "ActionTag": 1389996287,
+            "Size": {
+              "X": 253.0,
+              "Y": 25.0
+            },
+            "Name": "totalTroop",
+            "ctype": "TextBMFontObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "previous.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 19,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 34.08,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.03,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0431,
+              "Y": 0.175
+            },
+            "LeftMargin": 9.58,
+            "RightMargin": 1077.42,
+            "TopMargin": 264.0,
+            "BottomMargin": 264.0,
+            "Tag": 62,
+            "ActionTag": 1963417791,
+            "Size": {
+              "X": 49.0,
+              "Y": 112.0
+            },
+            "Name": "previousButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "forward.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 19,
+            "Scale9Height": 90,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1101.92,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.97,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.0431,
+              "Y": 0.175
+            },
+            "LeftMargin": 1077.42,
+            "RightMargin": 9.58,
+            "TopMargin": 264.0,
+            "BottomMargin": 264.0,
+            "Tag": 63,
+            "ActionTag": 2071525835,
+            "Size": {
+              "X": 49.0,
+              "Y": 112.0
+            },
+            "Name": "nextButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1136.0,
+          "Y": 640.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "forward.png",
+        "previous.png",
+        "soji_16.fnt",
+        "soji_16.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

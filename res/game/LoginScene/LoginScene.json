@@ -1,0 +1,393 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "3.10.0.0",
+  "Name": "LoginScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/loading.jpg",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.5,
+              "ScaleY": 1.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.6667
+            },
+            "LeftMargin": 240.0,
+            "RightMargin": 240.0,
+            "TopMargin": 120.0,
+            "BottomMargin": 120.0,
+            "ActionTag": 2139952998,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "bg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/loadingBgBar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 84.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1167
+            },
+            "PreSize": {
+              "X": 0.218,
+              "Y": 0.0389
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 500.5,
+            "RightMargin": 500.5,
+            "TopMargin": 622.0,
+            "BottomMargin": 70.0,
+            "Tag": 1,
+            "Children": [
+              {
+                "ProgressInfo": 100,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "game/LoginScene/loadingBar.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 139.5,
+                  "Y": 14.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9642,
+                  "Y": 0.7143
+                },
+                "LeftMargin": 5.0,
+                "RightMargin": 5.0,
+                "TopMargin": 4.0,
+                "BottomMargin": 4.0,
+                "Tag": 10,
+                "ActionTag": 398572184,
+                "Size": {
+                  "X": 269.0,
+                  "Y": 20.0
+                },
+                "Name": "LoadingBar",
+                "ctype": "LoadingBarObjectData"
+              }
+            ],
+            "ActionTag": -1885817229,
+            "Size": {
+              "X": 279.0,
+              "Y": 28.0
+            },
+            "Name": "loadingBarBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/g_background.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 161.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2236
+            },
+            "PreSize": {
+              "X": 0.1078,
+              "Y": 0.0583
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 571.0,
+            "RightMargin": 571.0,
+            "TopMargin": 538.0,
+            "BottomMargin": 140.0,
+            "Tag": 12,
+            "Children": [
+              {
+                "FontSize": 20,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "User ID",
+                "MaxLengthEnable": true,
+                "MaxLengthText": 12,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 69.0,
+                  "Y": 21.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.8696,
+                  "Y": 0.5952
+                },
+                "LeftMargin": 9.0,
+                "RightMargin": 9.0,
+                "TopMargin": 8.5,
+                "BottomMargin": 8.5,
+                "Tag": 11,
+                "ActionTag": 844303601,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 25.0
+                },
+                "Name": "userField",
+                "ctype": "TextFieldObjectData"
+              }
+            ],
+            "ActionTag": -1153686748,
+            "Size": {
+              "X": 138.0,
+              "Y": 42.0
+            },
+            "Name": "userFieldBg",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/okbutton.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/okbutton.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "game/LoginScene/okbutton.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 88,
+            "Scale9Height": 22,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 857.6,
+              "Y": 162.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.67,
+              "Y": 0.225
+            },
+            "PreSize": {
+              "X": 0.0922,
+              "Y": 0.0611
+            },
+            "VerticalEdge": "BottomEdge",
+            "LeftMargin": 798.6,
+            "RightMargin": 363.4,
+            "TopMargin": 536.0,
+            "BottomMargin": 140.0,
+            "Tag": 15,
+            "Children": [
+              {
+                "LabelText": "LOG IN",
+                "LabelBMFontFile_CNB": {
+                  "Type": "Normal",
+                  "Path": "fonts/soji_16.fnt",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 59.0,
+                  "Y": 22.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5847,
+                  "Y": 0.5682
+                },
+                "LeftMargin": 24.5,
+                "RightMargin": 24.5,
+                "TopMargin": 9.5,
+                "BottomMargin": 9.5,
+                "Tag": 16,
+                "ActionTag": -315914508,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 25.0
+                },
+                "Name": "loginButtonLabel",
+                "ctype": "TextBMFontObjectData"
+              }
+            ],
+            "ActionTag": 143066252,
+            "Size": {
+              "X": 118.0,
+              "Y": 44.0
+            },
+            "Name": "loginButton",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "LoginScene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "../../fonts/soji_16.fnt",
+        "../../fonts/soji_16.png",
+        "g_background.png",
+        "loading.jpg",
+        "loadingBar.png",
+        "loadingBgBar.png",
+        "okbutton.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

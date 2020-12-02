@@ -1,0 +1,551 @@
+{
+  "ID": "39b90d22-2afb-47aa-a8fd-f2fdd37ef124",
+  "Version": "3.10.0.0",
+  "Name": "ShopFrame_Scene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 41,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "nen2.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 480.0,
+              "Y": 320.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.8333,
+              "Y": 0.75
+            },
+            "LeftMargin": 80.0,
+            "RightMargin": 80.0,
+            "TopMargin": 80.0,
+            "BottomMargin": 80.0,
+            "Tag": 42,
+            "ActionTag": -395000600,
+            "Size": {
+              "X": 800.0,
+              "Y": 480.0
+            },
+            "Name": "nen2_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "back.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "back.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "back.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 44,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 126.0,
+              "Y": 525.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1312,
+              "Y": 0.8203
+            },
+            "PreSize": {
+              "X": 0.0771,
+              "Y": 0.0734
+            },
+            "LeftMargin": 89.0,
+            "RightMargin": 797.0,
+            "TopMargin": 91.5,
+            "BottomMargin": 501.5,
+            "Tag": 43,
+            "ActionTag": -745945489,
+            "Size": {
+              "X": 74.0,
+              "Y": 47.0
+            },
+            "Name": "backButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Normal",
+              "Path": "close.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 17,
+            "Scale9Height": 25,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 845.184,
+              "Y": 525.632
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.8804,
+              "Y": 0.8213
+            },
+            "PreSize": {
+              "X": 0.049,
+              "Y": 0.0734
+            },
+            "LeftMargin": 821.684,
+            "RightMargin": 91.316,
+            "TopMargin": 90.868,
+            "BottomMargin": 502.132,
+            "Tag": 44,
+            "ActionTag": 333661060,
+            "Size": {
+              "X": 47.0,
+              "Y": 47.0
+            },
+            "Name": "closeButton",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res_info.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 481.0,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.501,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.8271,
+              "Y": 0.1047
+            },
+            "LeftMargin": 84.0,
+            "RightMargin": 82.0,
+            "TopMargin": 497.5,
+            "BottomMargin": 75.5,
+            "Tag": 46,
+            "ActionTag": -2060595862,
+            "Size": {
+              "X": 794.0,
+              "Y": 67.0
+            },
+            "Name": "res_info_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 268.0,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2792,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0562
+            },
+            "LeftMargin": 198.0,
+            "RightMargin": 622.0,
+            "TopMargin": 513.0,
+            "BottomMargin": 91.0,
+            "Tag": 47,
+            "ActionTag": 391865867,
+            "Size": {
+              "X": 140.0,
+              "Y": 36.0
+            },
+            "Name": "res_bar_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon_gold_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 338.0,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.3521,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.0375,
+              "Y": 0.0594
+            },
+            "LeftMargin": 320.0,
+            "RightMargin": 604.0,
+            "TopMargin": 512.0,
+            "BottomMargin": 90.0,
+            "Tag": 48,
+            "ActionTag": 1236553250,
+            "Size": {
+              "X": 36.0,
+              "Y": 38.0
+            },
+            "Name": "icon_gold_bar_4",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 481.9999,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5021,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0562
+            },
+            "LeftMargin": 411.9999,
+            "RightMargin": 408.0001,
+            "TopMargin": 513.0,
+            "BottomMargin": 91.0,
+            "Tag": 49,
+            "ActionTag": -1533708833,
+            "Size": {
+              "X": 140.0,
+              "Y": 36.0
+            },
+            "Name": "res_bar_5",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "icon_elixir_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 546.0,
+              "Y": 110.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5688,
+              "Y": 0.1719
+            },
+            "PreSize": {
+              "X": 0.0313,
+              "Y": 0.0625
+            },
+            "LeftMargin": 531.0,
+            "RightMargin": 399.0,
+            "TopMargin": 510.0,
+            "BottomMargin": 90.0,
+            "Tag": 50,
+            "ActionTag": 1642232985,
+            "Size": {
+              "X": 30.0,
+              "Y": 40.0
+            },
+            "Name": "icon_elixir_bar_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "res_bar.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 693.0,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7219,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.1458,
+              "Y": 0.0562
+            },
+            "LeftMargin": 623.0,
+            "RightMargin": 197.0,
+            "TopMargin": 513.0,
+            "BottomMargin": 91.0,
+            "Tag": 51,
+            "ActionTag": 856842079,
+            "Size": {
+              "X": 140.0,
+              "Y": 36.0
+            },
+            "Name": "res_bar_7",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "g.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 762.0,
+              "Y": 109.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.7937,
+              "Y": 0.1703
+            },
+            "PreSize": {
+              "X": 0.0323,
+              "Y": 0.05
+            },
+            "LeftMargin": 746.5,
+            "RightMargin": 182.5,
+            "TopMargin": 515.0,
+            "BottomMargin": 93.0,
+            "Tag": 52,
+            "ActionTag": -1807321500,
+            "Size": {
+              "X": 31.0,
+              "Y": 32.0
+            },
+            "Name": "g_8",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 960.0,
+          "Y": 640.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "back.png",
+        "close.png",
+        "g.png",
+        "icon_elixir_bar.png",
+        "icon_gold_bar.png",
+        "nen2.png",
+        "res_bar.png",
+        "res_info.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}

@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "umd",
+        "experimentalDecorators": true,
+        "allowSyntheticDefaultImports": true,
+        "target": "es6",
+        "moduleResolution": "classic",
+        "allowUmdGlobalAccess": true,
+    },
+    // "include": [
+    //     "./**/*.js",
+    //     "src/**/*",
+    //     "frameworks/js-bindings/api/**/*",
+    //     "simulator/win32/script/**/*",
+    // ],
+    "exclude": [
+        "node_modules"
+    ],
+}
